@@ -11,7 +11,7 @@ const logger = pino({ level: "info" }, dest);
 //#endregion
 
 const sourceUrl =
-  "https://omosuite.dstudio.earth/api/v0/aql/public/projects-metadata--public?programSlug=GOS";
+  "https://omosuite.dstudio.earth/api/v0/aql/public/passport-missions--public?programSlug=GOS";
 const destFolder = "data";
 
 if (!fs.existsSync(destFolder)) {
