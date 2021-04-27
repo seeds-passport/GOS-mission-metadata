@@ -1,0 +1,31 @@
+{
+  "name": "passport-missions-metadata-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download-metadata.js",
+  "scripts": {
+    "start": "ts-node download-metadata.ts | pino-pretty -t -c -l",
+    "clean": "rm -rf ./data",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dstudio-earth/passport-missions-metadata-import.git"
+  },
+  "keywords": [],
+  "author": "Pavel Sevcik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dstudio-earth/passport-missions-metadata-import/issues"
+  },
+  "homepage": "https://github.com/dstudio-earth/passport-missions-metadata-import#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "pino": "^6.11.3",
+    "pino-pretty": "^4.7.1",
+    "ts-node": "^9.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^15.0.1"
+  }
+}

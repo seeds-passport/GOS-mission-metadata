@@ -1,0 +1,9 @@
+{
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "files.associations": {
+    ".*rc": "shellscript",
+    ".env": "shellscript",
+    "*.json": "json",
+    "tsconfig.json": "jsonc"
+  }
+}
