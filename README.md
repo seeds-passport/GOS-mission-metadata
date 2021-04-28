@@ -19,3 +19,5 @@ to download metadata run
 ```sh
 npm start
 ```
+
+it will create ./data folder with _data.json and .svg, .txt files
