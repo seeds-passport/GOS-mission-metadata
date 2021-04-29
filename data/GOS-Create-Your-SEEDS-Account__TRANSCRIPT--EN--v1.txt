@@ -1,0 +1,10 @@
+Bienvenu! It's nice to see you again. Please make yourself comfortable.
+
+For your next mission you need to create your SEEDS account, which will be permanently recorded on the blockchain where SEEDS lives. 
+This is a very important step. You will be given 12 secret words (also called mnemonic), and a private key in the process. 
+Make sure you save them somewhere safe when you are prompted to do so. 
+This is vital to keeping your SEEDS account safe at all times. Otherwise, you may lock your Seeds in your account forever.
+
+While you're creating your account, I'll be planting trees in the Carpathian mountains.
+
+Are you ready to play?

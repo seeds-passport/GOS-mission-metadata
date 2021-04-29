@@ -1,0 +1,486 @@
+[
+  {
+    "name": "GOS-Book-Townhall",
+    "completion": "complete_mission_from_api",
+    "activation": "is_visitor",
+    "is_required": false,
+    "parent_mission_name": "GOS-Create-Your-SEEDS-Account",
+    "metadata": {
+      "en": {
+        "title": "Book a Town Hall",
+        "video_url": "https://youtu.be/ZdBgw9sR6yI",
+        "video_source": "YOUTUBE",
+        "achievement": "Town Hall Booked"
+      }
+    },
+    "cta": {
+      "action": "book_townhall_meeting",
+      "action_type": "EXTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Boost-Reputation-Score",
+    "completion": "complete_mission_from_api",
+    "activation": "is_citizen",
+    "is_required": false,
+    "parent_mission_name": null,
+    "metadata": {
+      "en": {
+        "title": "Boost Reputation Score",
+        "video_url": "https://youtu.be/U1wNrWYPEIw",
+        "video_source": "YOUTUBE",
+        "achievement": "n% Completed"
+      }
+    },
+    "cta": {
+      "action": null,
+      "action_type": null,
+      "en": {
+        "label": null
+      }
+    }
+  },
+  {
+    "name": "GOS-Buy-More-Seeds",
+    "completion": "complete_mission_from_api",
+    "activation": "is_visitor",
+    "is_required": false,
+    "parent_mission_name": "GOS-Get-Vouched",
+    "metadata": {
+      "en": {
+        "title": "Buying SEEDS",
+        "video_url": "https://youtu.be/Q5Rso-hYzPo",
+        "video_source": "YOUTUBE",
+        "achievement": "n% Completed"
+      }
+    },
+    "cta": {
+      "action": "open_buy_seeds_page",
+      "action_type": "EXTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Create-Profile",
+    "completion": "complete_mission_from_api",
+    "activation": "is_visitor",
+    "is_required": false,
+    "parent_mission_name": "GOS-Create-Your-SEEDS-Account",
+    "metadata": {
+      "en": {
+        "title": "Create your SEEDS Profile",
+        "video_url": "https://youtu.be/DQU79KEpY5k",
+        "video_source": "YOUTUBE",
+        "achievement": "n% Completed"
+      }
+    },
+    "cta": {
+      "action": "create_profile",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Create-Your-SEEDS-Account",
+    "completion": "is_visitor",
+    "activation": "no_condition_required",
+    "is_required": true,
+    "parent_mission_name": null,
+    "metadata": {
+      "en": {
+        "title": "Create Your SEEDS Account",
+        "video_url": "https://youtu.be/5vz8kCy3ccc",
+        "video_source": "YOUTUBE",
+        "achievement": "n Accoun Created"
+      }
+    },
+    "cta": {
+      "action": "create_account",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-First-Contact",
+    "completion": "is_visitor",
+    "activation": "no_condition_required",
+    "is_required": false,
+    "parent_mission_name": null,
+    "metadata": {
+      "en": {
+        "title": "First Contact",
+        "video_url": "https://youtu.be/xmfydBk9XTI",
+        "video_source": "YOUTUBE",
+        "achievement": "Welcome Home"
+      }
+    },
+    "cta": {
+      "action": null,
+      "action_type": null,
+      "en": {
+        "label": "Begin Here"
+      }
+    }
+  },
+  {
+    "name": "GOS-Forum-Intro",
+    "completion": "new_member_post_created",
+    "activation": "is_visitor",
+    "is_required": false,
+    "parent_mission_name": "GOS-Create-Profile",
+    "metadata": {
+      "en": {
+        "title": "Make Intro",
+        "video_url": "https://youtu.be/-gMWj6zBBiA",
+        "video_source": "YOUTUBE",
+        "achievement": "1 Post Completed"
+      }
+    },
+    "cta": {
+      "action": "create_post",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Get-Project-Funded",
+    "completion": null,
+    "activation": null,
+    "is_required": null,
+    "parent_mission_name": "",
+    "metadata": {
+      "en": {
+        "title": "Getting a Project Funded",
+        "video_url": "https://youtu.be/UdOUDMzJYso",
+        "video_source": "YOUTUBE",
+        "achievement": null
+      }
+    },
+    "cta": {
+      "action": null,
+      "action_type": null,
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Get-Vouched",
+    "completion": "is_vouched",
+    "activation": "is_visitor",
+    "is_required": true,
+    "parent_mission_name": "GOS-Create-Profile",
+    "metadata": {
+      "en": {
+        "title": "Get Vouched",
+        "video_url": "https://youtu.be/0iGDBhsGJ0I",
+        "video_source": "YOUTUBE",
+        "achievement": "n Vouches Received"
+      }
+    },
+    "cta": {
+      "action": null,
+      "action_type": null,
+      "en": {
+        "label": null
+      }
+    }
+  },
+  {
+    "name": "GOS-Global-Renaissance",
+    "completion": "complete_mission_from_api",
+    "activation": "is_visitor",
+    "is_required": false,
+    "parent_mission_name": "GOS-Create-Profile",
+    "metadata": {
+      "en": {
+        "title": "The Global Renaissance",
+        "video_url": "https://youtu.be/Xmpli1d7FJQ",
+        "video_source": "YOUTUBE",
+        "achievement": "n% Competed"
+      }
+    },
+    "cta": {
+      "action": null,
+      "action_type": null,
+      "en": {
+        "label": null
+      }
+    }
+  },
+  {
+    "name": "GOS-Invite-3",
+    "completion": "3_invitations_accepted_including_1_resident",
+    "activation": "is_resident",
+    "is_required": true,
+    "parent_mission_name": null,
+    "metadata": {
+      "en": {
+        "title": "Invite 3 Friends",
+        "video_url": "https://youtu.be/dq6vL2acMHc",
+        "video_source": "YOUTUBE",
+        "achievement": "n Friends Visitor Status / n Friend Resident Status"
+      }
+    },
+    "cta": {
+      "action": "manage_invites",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Invite-a-Friend",
+    "completion": "1_invitation_accepted",
+    "activation": "is_visitor",
+    "is_required": true,
+    "parent_mission_name": "GOS-Get-Vouched",
+    "metadata": {
+      "en": {
+        "title": "Invite a Friend",
+        "video_url": "https://youtu.be/9c4JEt-c8nw",
+        "video_source": "YOUTUBE",
+        "achievement": "n Invites Sent - n Invites accecpeted"
+      }
+    },
+    "cta": {
+      "action": "invite_friend",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Invite-Community",
+    "completion": "has_created_at_least_1_campaign_proposal",
+    "activation": "is_citizen",
+    "is_required": false,
+    "parent_mission_name": null,
+    "metadata": {
+      "en": {
+        "title": "Invite Community",
+        "video_url": "https://youtu.be/cRWGXKqXIvQ",
+        "video_source": "YOUTUBE",
+        "achievement": "1 Campagin Proposal Created"
+      }
+    },
+    "cta": {
+      "action": "create_campaign",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-LevelUp-Citizen",
+    "completion": "is_citizen",
+    "activation": "citizenship_requirements_met",
+    "is_required": false,
+    "parent_mission_name": null,
+    "metadata": {
+      "en": {
+        "title": "Level Up to Citizen",
+        "video_url": "https://youtu.be/UdOUDMzJYso",
+        "video_source": "YOUTUBE",
+        "achievement": "Level-Up to Citizen"
+      }
+    },
+    "cta": {
+      "action": "citizen_level_up",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Level Up"
+      }
+    }
+  },
+  {
+    "name": "GOS-LeveUp-Resident",
+    "completion": "is_resident",
+    "activation": "residency_requirements_met",
+    "is_required": true,
+    "parent_mission_name": null,
+    "metadata": {
+      "en": {
+        "title": "Level Up to Resident",
+        "video_url": "https://youtu.be/cHpuzrRQEws",
+        "video_source": "YOUTUBE",
+        "achievement": "Leve Up to Resident"
+      }
+    },
+    "cta": {
+      "action": "resident_level_up",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Level Up"
+      }
+    }
+  },
+  {
+    "name": "GOS-Make-5-Transactions",
+    "completion": "made_at_least_5_transactions",
+    "activation": "is_resident",
+    "is_required": true,
+    "parent_mission_name": null,
+    "metadata": {
+      "en": {
+        "title": "Make 5 Transactions",
+        "video_url": "https://youtu.be/N368GQcYBG4",
+        "video_source": "YOUTUBE",
+        "achievement": "n Transactions Completed"
+      }
+    },
+    "cta": {
+      "action": "send_seeds",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Make-Transaction",
+    "completion": "made_at_least_1_transaction",
+    "activation": "is_visitor",
+    "is_required": true,
+    "parent_mission_name": "GOS-Get-Vouched",
+    "metadata": {
+      "en": {
+        "title": "Make 1 Transaction",
+        "video_url": "https://youtu.be/7vAC7lWjH-c",
+        "video_source": "YOUTUBE",
+        "achievement": "n Transactions Created"
+      }
+    },
+    "cta": {
+      "action": "send_seeds",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Plant-200-Seeds",
+    "completion": "has_planted_at_least_200_seeds",
+    "activation": "is_resident",
+    "is_required": true,
+    "parent_mission_name": null,
+    "metadata": {
+      "en": {
+        "title": "Plant 200 Seeds",
+        "video_url": "https://youtu.be/FPw_10WTPuE",
+        "video_source": "YOUTUBE",
+        "achievement": "n Seeds Planted"
+      }
+    },
+    "cta": {
+      "action": "plant_seeds",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Plant-50-Seeds",
+    "completion": "has_planted_at_least_50_seeds",
+    "activation": "is_visitor",
+    "is_required": true,
+    "parent_mission_name": "GOS-Get-Vouched",
+    "metadata": {
+      "en": {
+        "title": "Plant 50 Seeds",
+        "video_url": "https://youtu.be/2YU5vED0M3o",
+        "video_source": "YOUTUBE",
+        "achievement": "n Seeds Planted"
+      }
+    },
+    "cta": {
+      "action": "plant_seeds",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Request-Invite",
+    "completion": "is_visitor",
+    "activation": "no_condition_required",
+    "is_required": false,
+    "parent_mission_name": null,
+    "metadata": {
+      "en": {
+        "title": "Request An Invite",
+        "video_url": "https://youtu.be/Xmpli1d7FJQ",
+        "video_source": "YOUTUBE",
+        "achievement": "Invite Requested"
+      }
+    },
+    "cta": {
+      "action": "request_invite",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-Vote-Proposal",
+    "completion": "voted_at_least_on_1_proposal",
+    "activation": "is_citizen",
+    "is_required": false,
+    "parent_mission_name": null,
+    "metadata": {
+      "en": {
+        "title": "Vote on Proposals",
+        "video_url": "https://youtu.be/UcauTGkb5-U",
+        "video_source": "YOUTUBE",
+        "achievement": "n Votes"
+      }
+    },
+    "cta": {
+      "action": "goto_votes_with_tab_open",
+      "action_type": "INTERNAL",
+      "en": {
+        "label": "Start Mission"
+      }
+    }
+  },
+  {
+    "name": "GOS-What-is-SEEDS",
+    "completion": "complete_mission_from_api",
+    "activation": "is_visitor",
+    "is_required": false,
+    "parent_mission_name": "GOS-Create-Your-SEEDS-Account",
+    "metadata": {
+      "en": {
+        "title": "What is SEEDS?",
+        "video_url": "https://youtu.be/0DcAsLal-x4",
+        "video_source": "YOUTUBE",
+        "achievement": "N% Completed"
+      }
+    },
+    "cta": {
+      "action": null,
+      "action_type": null,
+      "en": {
+        "label": null
+      }
+    }
+  }
+]
