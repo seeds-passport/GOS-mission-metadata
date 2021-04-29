@@ -31,8 +31,16 @@ if (!fs.existsSync(destFolder)) {
     );
   });
   let payload = data.map((m) => {
-    let { name, parent_mission_name, metadata, cta } = m;
-    return { name, parent_mission_name, metadata, cta };
+    let {
+      name,
+      completion,
+      activation,
+      is_required,
+      parent_mission_name,
+      metadata,
+      cta,
+    } = m;
+    return { name, completion, activation, is_required, parent_mission_name, metadata, cta };
   });
   fs.writeFileSync(`${destFolder}/_data.json`, JSON.stringify(payload));
 })();
