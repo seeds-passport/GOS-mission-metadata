@@ -10,7 +10,9 @@
         "title": "Book a Town Hall",
         "video_url": "https://youtu.be/ZdBgw9sR6yI",
         "video_source": "YOUTUBE",
-        "achievement": "Town Hall Booked"
+        "achievement": "Town Hall Booked",
+        "thumbnail_url": "GOS-Book-Townhall__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Book-Townhall__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -32,7 +34,9 @@
         "title": "Boost Reputation Score",
         "video_url": "https://youtu.be/U1wNrWYPEIw",
         "video_source": "YOUTUBE",
-        "achievement": "n% Completed"
+        "achievement": "n% Completed",
+        "thumbnail_url": "GOS-Boost-Reputation-Score__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Boost-Reputation-Score__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -54,7 +58,9 @@
         "title": "Buying SEEDS",
         "video_url": "https://youtu.be/Q5Rso-hYzPo",
         "video_source": "YOUTUBE",
-        "achievement": "n% Completed"
+        "achievement": "n% Completed",
+        "thumbnail_url": "GOS-Buy-More-Seeds__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Buy-More-Seeds__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -76,7 +82,9 @@
         "title": "Create your SEEDS Profile",
         "video_url": "https://youtu.be/DQU79KEpY5k",
         "video_source": "YOUTUBE",
-        "achievement": "n% Completed"
+        "achievement": "n% Completed",
+        "thumbnail_url": "GOS-Create-Profile__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Create-Profile__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -98,7 +106,9 @@
         "title": "Create Your SEEDS Account",
         "video_url": "https://youtu.be/5vz8kCy3ccc",
         "video_source": "YOUTUBE",
-        "achievement": "n Accoun Created"
+        "achievement": "n Accoun Created",
+        "thumbnail_url": "GOS-Create-Your-SEEDS-Account__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Create-Your-SEEDS-Account__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -120,7 +130,9 @@
         "title": "First Contact",
         "video_url": "https://youtu.be/xmfydBk9XTI",
         "video_source": "YOUTUBE",
-        "achievement": "Welcome Home"
+        "achievement": "Welcome Home",
+        "thumbnail_url": "GOS-First-Contact__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-First-Contact__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -142,7 +154,9 @@
         "title": "Make Intro",
         "video_url": "https://youtu.be/-gMWj6zBBiA",
         "video_source": "YOUTUBE",
-        "achievement": "1 Post Completed"
+        "achievement": "1 Post Completed",
+        "thumbnail_url": "GOS-Forum-Intro__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Forum-Intro__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -164,7 +178,9 @@
         "title": "Getting a Project Funded",
         "video_url": "https://youtu.be/UdOUDMzJYso",
         "video_source": "YOUTUBE",
-        "achievement": null
+        "achievement": null,
+        "thumbnail_url": "GOS-Get-Project-Funded__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Get-Project-Funded__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -186,7 +202,9 @@
         "title": "Get Vouched",
         "video_url": "https://youtu.be/0iGDBhsGJ0I",
         "video_source": "YOUTUBE",
-        "achievement": "n Vouches Received"
+        "achievement": "n Vouches Received",
+        "thumbnail_url": "GOS-Get-Vouched__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Get-Vouched__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -208,7 +226,9 @@
         "title": "The Global Renaissance",
         "video_url": "https://youtu.be/Xmpli1d7FJQ",
         "video_source": "YOUTUBE",
-        "achievement": "n% Competed"
+        "achievement": "n% Competed",
+        "thumbnail_url": "GOS-Global-Renaissance__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Global-Renaissance__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -230,7 +250,9 @@
         "title": "Invite 3 Friends",
         "video_url": "https://youtu.be/dq6vL2acMHc",
         "video_source": "YOUTUBE",
-        "achievement": "n Friends Visitor Status / n Friend Resident Status"
+        "achievement": "n Friends Visitor Status / n Friend Resident Status",
+        "thumbnail_url": "GOS-Invite-3__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Invite-3__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -252,7 +274,9 @@
         "title": "Invite a Friend",
         "video_url": "https://youtu.be/9c4JEt-c8nw",
         "video_source": "YOUTUBE",
-        "achievement": "n Invites Sent - n Invites accecpeted"
+        "achievement": "n Invites Sent - n Invites accecpeted",
+        "thumbnail_url": "GOS-Invite-a-Friend__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Invite-a-Friend__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -274,7 +298,9 @@
         "title": "Invite Community",
         "video_url": "https://youtu.be/cRWGXKqXIvQ",
         "video_source": "YOUTUBE",
-        "achievement": "1 Campagin Proposal Created"
+        "achievement": "1 Campagin Proposal Created",
+        "thumbnail_url": "GOS-Invite-Community__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Invite-Community__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -296,7 +322,9 @@
         "title": "Level Up to Citizen",
         "video_url": "https://youtu.be/UdOUDMzJYso",
         "video_source": "YOUTUBE",
-        "achievement": "Level-Up to Citizen"
+        "achievement": "Level-Up to Citizen",
+        "thumbnail_url": "GOS-LevelUp-Citizen__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-LevelUp-Citizen__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -318,7 +346,9 @@
         "title": "Level Up to Resident",
         "video_url": "https://youtu.be/cHpuzrRQEws",
         "video_source": "YOUTUBE",
-        "achievement": "Leve Up to Resident"
+        "achievement": "Leve Up to Resident",
+        "thumbnail_url": "GOS-LeveUp-Resident__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-LeveUp-Resident__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -340,7 +370,9 @@
         "title": "Make 5 Transactions",
         "video_url": "https://youtu.be/N368GQcYBG4",
         "video_source": "YOUTUBE",
-        "achievement": "n Transactions Completed"
+        "achievement": "n Transactions Completed",
+        "thumbnail_url": "GOS-Make-5-Transactions__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Make-5-Transactions__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -362,7 +394,9 @@
         "title": "Make 1 Transaction",
         "video_url": "https://youtu.be/7vAC7lWjH-c",
         "video_source": "YOUTUBE",
-        "achievement": "n Transactions Created"
+        "achievement": "n Transactions Created",
+        "thumbnail_url": "GOS-Make-Transaction__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Make-Transaction__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -384,7 +418,9 @@
         "title": "Plant 200 Seeds",
         "video_url": "https://youtu.be/FPw_10WTPuE",
         "video_source": "YOUTUBE",
-        "achievement": "n Seeds Planted"
+        "achievement": "n Seeds Planted",
+        "thumbnail_url": "GOS-Plant-200-Seeds__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Plant-200-Seeds__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -406,7 +442,9 @@
         "title": "Plant 50 Seeds",
         "video_url": "https://youtu.be/2YU5vED0M3o",
         "video_source": "YOUTUBE",
-        "achievement": "n Seeds Planted"
+        "achievement": "n Seeds Planted",
+        "thumbnail_url": "GOS-Plant-50-Seeds__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Plant-50-Seeds__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -428,7 +466,9 @@
         "title": "Request An Invite",
         "video_url": "https://youtu.be/Xmpli1d7FJQ",
         "video_source": "YOUTUBE",
-        "achievement": "Invite Requested"
+        "achievement": "Invite Requested",
+        "thumbnail_url": "GOS-Request-Invite__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Request-Invite__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -450,7 +490,9 @@
         "title": "Vote on Proposals",
         "video_url": "https://youtu.be/UcauTGkb5-U",
         "video_source": "YOUTUBE",
-        "achievement": "n Votes"
+        "achievement": "n Votes",
+        "thumbnail_url": "GOS-Vote-Proposal__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-Vote-Proposal__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
@@ -472,7 +514,9 @@
         "title": "What is SEEDS?",
         "video_url": "https://youtu.be/0DcAsLal-x4",
         "video_source": "YOUTUBE",
-        "achievement": "N% Completed"
+        "achievement": "N% Completed",
+        "thumbnail_url": "GOS-What-is-SEEDS__THUMBNAIL--EN--v1.svg",
+        "transcript_url": "GOS-What-is-SEEDS__TRANSCRIPT--EN--v1.txt"
       }
     },
     "cta": {
