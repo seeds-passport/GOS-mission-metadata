@@ -18,8 +18,10 @@
     "cta": {
       "action": "book_townhall_meeting",
       "action_type": "EXTERNAL",
+      "action_routes": "https://mbc.joinseeds.earth/home",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Book an E-Townhall Call"
       }
     }
   },
@@ -42,8 +44,10 @@
     "cta": {
       "action": null,
       "action_type": null,
+      "action_routes": null,
       "en": {
-        "label": null
+        "label": null,
+        "action_info": null
       }
     }
   },
@@ -66,8 +70,10 @@
     "cta": {
       "action": "open_buy_seeds_page",
       "action_type": "EXTERNAL",
+      "action_routes": "https://joinseeds.earth/buy-seeds",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "open external buy seeds url"
       }
     }
   },
@@ -90,8 +96,10 @@
     "cta": {
       "action": "create_profile",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.connect.profile.create",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Create Profile"
       }
     }
   },
@@ -114,8 +122,10 @@
     "cta": {
       "action": "create_account",
       "action_type": "INTERNAL",
+      "action_routes": "Antonio finishes with this, it is not ready yet",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Create Account"
       }
     }
   },
@@ -136,10 +146,12 @@
       }
     },
     "cta": {
-      "action": null,
-      "action_type": null,
+      "action": "open_mission_video",
+      "action_type": "HANDLED_BY_FRONTEND",
+      "action_routes": null,
       "en": {
-        "label": "Begin Here"
+        "label": "Begin Here",
+        "action_info": "Open GOS-First-Contact Video"
       }
     }
   },
@@ -162,8 +174,10 @@
     "cta": {
       "action": "create_post",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.engage.new",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Create Post"
       }
     }
   },
@@ -186,8 +200,10 @@
     "cta": {
       "action": null,
       "action_type": null,
+      "action_routes": null,
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": null
       }
     }
   },
@@ -210,8 +226,10 @@
     "cta": {
       "action": null,
       "action_type": null,
+      "action_routes": null,
       "en": {
-        "label": null
+        "label": null,
+        "action_info": null
       }
     }
   },
@@ -234,8 +252,10 @@
     "cta": {
       "action": null,
       "action_type": null,
+      "action_routes": null,
       "en": {
-        "label": null
+        "label": null,
+        "action_info": null
       }
     }
   },
@@ -258,8 +278,10 @@
     "cta": {
       "action": "manage_invites",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.wallet.manage-invites",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Invite Manager"
       }
     }
   },
@@ -282,8 +304,10 @@
     "cta": {
       "action": "invite_friend",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.wallet.invite-user",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Invite a friend"
       }
     }
   },
@@ -306,8 +330,10 @@
     "cta": {
       "action": "create_campaign",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.vote.proposals.create",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Create a Campaign screen"
       }
     }
   },
@@ -330,8 +356,10 @@
     "cta": {
       "action": "citizen_level_up",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.connect.gos.citizen-quiz",
       "en": {
-        "label": "Level Up"
+        "label": "Level Up",
+        "action_info": "citizen_level_up"
       }
     }
   },
@@ -354,8 +382,10 @@
     "cta": {
       "action": "resident_level_up",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.connect.gos.resident-quiz",
       "en": {
-        "label": "Level Up"
+        "label": "Level Up",
+        "action_info": "resident_level_up"
       }
     }
   },
@@ -378,8 +408,10 @@
     "cta": {
       "action": "send_seeds",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.wallet.transfer",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Send Seeds"
       }
     }
   },
@@ -402,8 +434,10 @@
     "cta": {
       "action": "send_seeds",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.wallet.transfer",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Send Seeds"
       }
     }
   },
@@ -426,8 +460,10 @@
     "cta": {
       "action": "plant_seeds",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.wallet.plant",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Plant Seeds"
       }
     }
   },
@@ -450,8 +486,10 @@
     "cta": {
       "action": "plant_seeds",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.wallet.plant",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Plant Seeds"
       }
     }
   },
@@ -474,8 +512,10 @@
     "cta": {
       "action": "request_invite",
       "action_type": "INTERNAL",
+      "action_routes": "Antonio finishes with this, it is not ready yet",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "Request Invite"
       }
     }
   },
@@ -498,8 +538,10 @@
     "cta": {
       "action": "goto_votes_with_tab_open",
       "action_type": "INTERNAL",
+      "action_routes": "blockchain-accounts.account.vote.proposals.list.open",
       "en": {
-        "label": "Start Mission"
+        "label": "Start Mission",
+        "action_info": "open Vote"
       }
     }
   },
@@ -522,8 +564,10 @@
     "cta": {
       "action": null,
       "action_type": null,
+      "action_routes": null,
       "en": {
-        "label": null
+        "label": null,
+        "action_info": null
       }
     }
   }
