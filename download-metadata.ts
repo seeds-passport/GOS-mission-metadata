@@ -42,5 +42,5 @@ if (!fs.existsSync(destFolder)) {
     } = m;
     return { name, completion, activation, is_required, parent_mission_name, metadata, cta };
   });
-  fs.writeFileSync(`${destFolder}/_data.json`, JSON.stringify(payload));
+  fs.writeFileSync(`${destFolder}/_data.json`, JSON.stringify(payload, null, 2));
 })();
