@@ -43,8 +43,8 @@
     },
     "cta": {
       "action": null,
-      "action_type": null,
-      "action_routes": null,
+      "action_type": "HANDLED_BY_FRONTEND",
+      "action_routes": "blockchain-accounts.account.engage.new",
       "en": {
         "label": null,
         "action_info": null
@@ -251,7 +251,7 @@
     },
     "cta": {
       "action": null,
-      "action_type": null,
+      "action_type": "HANDLED_BY_FRONTEND",
       "action_routes": null,
       "en": {
         "label": null,
@@ -554,7 +554,7 @@
     "metadata": {
       "en": {
         "title": "What is SEEDS?",
-        "video_url": "https://youtu.be/0DcAsLal-x4",
+        "video_url": "https://youtu.be/XxpOIX9I9wc",
         "video_source": "YOUTUBE",
         "achievement": "N% Completed",
         "thumbnail_url": "GOS-What-is-SEEDS__THUMBNAIL--EN--v1.svg",
@@ -563,7 +563,7 @@
     },
     "cta": {
       "action": null,
-      "action_type": null,
+      "action_type": "HANDLED_BY_FRONTEND",
       "action_routes": null,
       "en": {
         "label": null,
